@@ -1,0 +1,12 @@
+body {
+    box-sizing: border-box;
+    margin-right: 50px;}
+.box {
+    height: 180px;
+    width: 330px;
+    margin: top 73px;
+    margin: left 109px;
+    border: 2px solid blue;
+        padding: 5px;
+        margin: 50px;
+        margin-top: 25px;}
